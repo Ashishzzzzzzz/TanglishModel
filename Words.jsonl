@@ -1,312 +1,46 @@
-{"cat":"poonai"}
-{"dog":"naai"}
 {"Dude": "Machan"}
 {"Hey": "Dai"}
 {"Yo": "Dei"}
-{"Getlost": "Poda"}
-{"Getlost": "Podi"}
 {"Rascal": "Thevdiya"}
 {"Idiot": "Loosu"}
 {"Crazy": "Paithiyam"}
 {"Nonsense": "Mayiru"}
-{"Dog": "Naaye"}
-{"Butter": "Venna"}
 {"Dumb": "Kena"}
 {"Ruined": "Pocha"}
-{"Doneit": "Aagidichi"}
-{"Finished": "Mudinjidichi"}
-{"Direction": "Thikku"}
-{"Clueless": "Thikku Mukkaa"}
 {"Difficult": "Kashtam"}
 {"Exactly": "Apdiye"}
-{"Okayda": "Seri da"}
-{"Whatda": "Ennada"}
-{"Whatdi": "Ennadi"}
-{"Howda": "Epdi da"}
-{"Whyda": "Yenda"}
-{"Whydi": "Yendi"}
-{"Youknow": "Theriyuma"}
-{"Dunno": "Teriyla"}
-{"Lookda": "Paaruda"}
-{"Listenda": "Keluda"}
-{"Tellda": "Solluda"}
-{"Abit": "Konjam"}
-{"Alot": "Romba"}
+{"Fun": "Jolly"}
 {"Awesome": "Semma"}
 {"Lame": "Mokka"}
-{"Inhand": "Kaila"}
-{"Outside": "Velila"}
-{"Town": "Ooru"}
-{"Local": "Naattu"}
-{"Giveup": "Settupoda"}
-{"Beatit": "Adichupoda"}
-{"Irritating": "Kadupu"}
-{"Toldyou": "Sollitale"}
-{"Sawit": "Paathiya"}
-{"Heardit": "Ketacha"}
-{"Gotit": "Vaangiya"}
-{"Goneit": "Poyitta"}
-{"Imhere": "Vandhutiyen"}
-{"Bringalong": "Kootitu vaa"}
-{"Leaveit": "Vida da"}
-{"Knockout": "Thatti kizhi"}
-{"Fun": "Jolly"}
-{"Cornyjoke": "Kadi"}
-{"Badpun": "Kadi Joke"}
-{"Fierce": "Theri"}
-{"Nextlevel": "Vera Level"}
 {"Impressive": "Mass"}
 {"Stylish": "Class"}
 {"Chief": "Boss"}
 {"Bro": "Anna"}
 {"Sis": "Akka"}
-{"Brolaw": "Mapla"}
 {"Dude": "Paiyan"}
 {"Girl": "Ponnu"}
 {"Sir": "Ayya"}
-{"Mom": "Amma"}
-{"Goonhim": "Naai Mela Poi"}
-{"Crazy": "Loose"}
 {"Muscular": "Kattai"}
-{"Rascalboy": "Thevidiya Paiya"}
-{"Hyped": "Full Josh"}
-{"Notinmood": "Mood Illa"}
-{"Nofeeling": "Feel Illa"}
-{"Soboring": "Bore Adikuthu"}
-{"Timepass": "Time Pass"}
-{"Settled": "Settla"}
-{"Noscene": "Scene Illa"}
-{"Showoff": "Scene Pottu"}
-{"Stylish": "Style Pottu"}
-{"Broke": "Kasu Illa"}
-{"Hasmoney": "Kasu Iruku"}
+{"Hyped": "Josham"}
+{"Boring": "Bore"}
+{"Carefree": "Nonchalant"}
+{"Broke": "Kasilla"}
 {"Movie": "Padam"}
 {"Song": "Paattu"}
 {"Drama": "Aatam"}
 {"Change": "Maatram"}
 {"Tease": "Kalaai"}
-{"Teasing": "Kalaaikiraen"}
-{"Calmdown": "Adangada"}
 {"Handle": "Samaali"}
-{"Manageit": "Manage Pannu"}
-{"Adjustit": "Adjust Pannu"}
-{"Fixit": "Fix Pannu"}
-{"Put": "Podu"}
-{"Touch": "Thodu"}
-{"Pushaway": "Thalli Vidu"}
-{"Liftup": "Thooki Podu"}
-{"Neck": "Kazhuthu"}
-{"Spill": "Sintha"}
-{"Shutup": "Vaai Moodu"}
-{"Talkmore": "Vaai Pesi"}
-{"Overtalk": "Overaa Pesi"}
 {"Dramatic": "Overaction"}
-{"Dontdrama": "OA Pannatha"}
-{"Rockit": "Kalakku"}
-{"Rockedit": "Kalakitel"}
-{"Enjoying": "Kalikitu iruken"}
-{"Enjoyit": "Enjoy Pannu"}
-{"Enjoying": "Enjoy Pannitu iruken"}
-{"Bigshot": "Periya Aalu"}
-{"Youngboy": "Sinna Paiya"}
-{"Badboy": "Ketta Paiya"}
-{"Goodboy": "Nalla Paiya"}
-{"Doublemean": "Double Meaning"}
-{"Areyousingle": "Single Ah"}
-{"Watchout": "Pathu Paaru"}
-{"Dontworry": "Kavalai Padatha"}
-{"Carefree": "Kavalai Illama"}
-{"Notension": "Tension Vendam"}
-{"Chillout": "Chill Pannu"}
-{"Relaxit": "Relax Pannu"}
-{"Willhappen": "Thaanaa Aagum"}
-{"Willbefine": "Nalla Aagum"}
-{"Whathappened": "Enna Achu"}
-{"Whatsproblem": "Enna Problem"}
-{"Tellmebro": "Sollu Baaa"}
-{"Sayabit": "Konjam Sollu"}
-{"Isitso": "Adhuvaa"}
-{"Meaning": "Apdinaa"}
-{"Notlikethat": "Apdi Illai"}
-{"Lookatthis": "Ipdi Paaru"}
-{"Dunknobro": "Therila Baa"}
-{"Confused": "Confuse Aagiten"}
-{"Mindblown": "Mind Blown"}
-{"Shocked": "Shock Aagiten"}
-{"Surprised": "Surprise Aagiten"}
-{"Cantbelieve": "Nambala Maaten"}
-{"Girls": "Pombala"}
-{"Boys": "Aambala"}
-{"Insult": "Pundaikari"}
-{"Expletive": "Otha"}
-{"Donkey": "Kazhutha"}
-{"Shutmouth": "Vaai Shut"}
-{"Heycrazy": "Dei Loose"}
-{"Nowuknow": "Ippo Theriyum"}
-{"Nowlook": "Ippo Paaru"}
-{"Tolduback": "Appo Sonnene"}
-{"Canthandle": "Mudiyala"}
-{"Scared": "Bayama Iruku"}
-{"Bravely": "Thairimaa"}
-{"Dudelook": "Machaan Paaru"}
-{"Showscene": "Scene Kaatu"}
-{"Showattitude": "Attitude Kaatu"}
-{"Splurged": "Kaamichu"}
-{"Eatmore": "Saptu Thallu"}
-{"Hitmore": "Adichi Thallu"}
-{"Runaway": "Odi Poo"}
-{"Comefast": "Odi Vaa"}
-{"Whereugoing": "Enga Pore"}
-{"Wherefrom": "Enga Irunte"}
-{"Illsay": "Naa Solven"}
-{"Willyoulisten": "Nee Keluva"}
-{"Wonttlisten": "Ketka Maaten"}
-{"Wontttell": "Soldradhe Illai"}
-{"Trytelling": "Solli Paaru"}
-{"Trydoing": "Pannipaaru"}
-{"Cantdo": "Panna Mudiyathu"}
-{"Cantssee": "Kannula Theriyala"}
-{"Didntfall": "Kaathula Vilatha"}
-{"Stomachache": "Vayiru Valikuthu"}
-{"Headache": "Thalai Valikuthu"}
-{"Legpain": "Kaal Valikuthu"}
-{"Handpain": "Kai Valikuthu"}
-{"Bodyache": "Full Body Valikuthu"}
-{"Tried": "Tiredness"}
-{"Sleepy": "Thookam Varuthu"}
-{"Hungry": "Pasikuthu"}
-{"Thirsty": "Thaagam"}
-{"Ateornot": "Saapta"}
-{"Iblept": "Thaangiten"}
-{"Icame": "Vandhiten"}
-{"Iwent": "Poyiten"}
-{"Isaw": "Paathiten"}
-{"Iheard": "Ketken"}
-{"Ibought": "Vaanginen"}
-{"Isold": "Vitten"}
-{"Igave": "Koduthen"}
-{"Itook": "Vaanginen"}
-{"Ididdit": "Senjiten"}
-{"Ifinished": "Mudichiten"}
-{"Iforgot": "Maranthutten"}
-{"Iremember": "Nyabagam Iruku"}
-{"Igotit": "Purinjidichi"}
-{"Dontget": "Puriyala"}
-{"Goandsee": "Poi Paaru"}
-{"Goandtell": "Poi Sollu"}
-{"Goandcome": "Poi Vaa"}
-{"Comeandsee": "Vandhu Paaru"}
-{"Comehear": "Vandhu Kelu"}
-{"Cometell": "Vandhu Sollu"}
-{"Gotosleep": "Poi Thoonga"}
-{"Goeat": "Poi Saapdu"}
-{"Comeeat": "Vandhu Saapdu"}
-{"Gobring": "Poyi Vaangitu Vaa"}
-{"Bringit": "Thooki Vaa"}
-{"Takeit": "Thooki Po"}
-{"Comebackbro": "Poitu Vaa Machaan"}
-{"Howareyou": "Epdi Iruka"}
-{"Goodornot": "Nalla Iruka"}
-{"Imawesome": "Semma Iruke"}
-{"Dontask": "Kekathinga"}
-{"Dontlook": "Paakathinga"}
-{"Donttouch": "Thottathinga"}
-{"Donttell": "Sonnathinga"}
-{"Dontlisten": "Kelakathinga"}
-{"Dontdo": "Pannathinga"}
-{"Enough": "Pothum"}
-{"Notneed": "Vendam"}
-{"Need": "Venum"}
-{"Needabit": "Konjam Venum"}
-{"Needmore": "Romba Venum"}
-{"Neednothing": "Onnume Vendam"}
-{"Needall": "Yellame Venum"}
-{"Allgood": "Ellam Seri"}
-{"Whatsright": "Enna Seri"}
-{"Notright": "Seri Illai"}
-{"Lookedright": "Patha Seri"}
-{"Wrongtohear": "Ketka Seri Illai"}
-{"Wrongtosay": "Sollla Seri Illai"}
-{"Wrongtodo": "Panna Seri Illai"}
-{"Scenedone": "Scene Mudinja"}
-{"Beinghumble": "Adimaiga Iruka"}
-{"Becareful": "Usha Iru"}
-{"Stayalert": "Savadhanama Iru"}
-{"Dontmistake": "Thappu Pannatha"}
-{"Dontgetcaught": "Maatikatha"}
-{"Dontgetblocked": "Thaduka Varatha"}
-{"Letitgo": "Vidi Vidu"}
-{"Calmdownda": "Adangu Da"}
-{"Getlostyou": "Poda Podi"}
-{"Comeonbro": "Vaa Da"}
-{"Goawaybro": "Po Da"}
-{"Waitbro": "Iru Da"}
-{"Lookbro": "Paaru Da"}
-{"Listenbro": "Kelu Da"}
-{"Tellbro": "Sollu Da"}
-{"Dobro": "Pannu Da"}
-{"Leavebro": "Vidu Da"}
-{"Givebro": "Koodu Da"}
-{"Eatbro": "Saapdu Da"}
-{"Sleepbro": "Thoonga Da"}
-{"Wakeupbro": "Ezhundhiru Da"}
-{"Runbro": "Odu Da"}
-{"Walkbro": "Nada Da"}
-{"Singbro": "Paadu Da"}
-{"Dancebro": "Aadu Da"}
-{"Playbro": "Vilayaadu Da"}
-{"Laughbro": "Siri Da"}
-{"Crybro": "Azhu Da"}
-{"Stopbro": "Nillu Da"}
-{"Continuebro": "Thodar Da"}
-{"Turnbro": "Thiri Da"}
-{"Askmebro": "Keelu Da"}
-{"Askedgone": "Kettu Po"}
-{"Toldgone": "Solli Po"}
-{"Didgone": "Panni Po"}
-{"Tookgone": "Vaangi Po"}
-{"Gavegone": "Kodi Po"}
-{"Leftgone": "Vittu Po"}
-{"Sawgone": "Paathi Po"}
-{"Hearnow": "Kettu Paaru"}
-{"Saynow": "Solli Paaru"}
-{"Donow": "Panni Paaru"}
-{"Takenow": "Vaangi Paaru"}
-{"Givenow": "Kodi Paaru"}
-{"Leavenow": "Vittu Paaru"}
-{"Seenow": "Paathi Paaru"}
-{"Whatneed": "Edhu Venum"}
-{"Whatnotneed": "Edhu Vendam"}
-{"Whocame": "Yaaru Vanthanga"}
-{"Whowent": "Yaaru Ponga"}
-{"Whotold": "Yaaru Sonanga"}
-{"Wholistened": "Yaaru Kelanga"}
-{"Whodid": "Yaaru Pannanga"}
-{"Whotook": "Yaaru Vaanganga"}
-{"Whogave": "Yaaru Koadutha"}
-{"Whathappenedbro": "Enna Achu Machaan"}
-{"Whatudoing": "Enna Panre"}
-{"Whatusaying": "Enna Solre"}
-{"Whatuseeing": "Enna Pakure"}
-{"Whatulistening": "Enna Kelkure"}
-{"Whatueatig": "Enna Saapidure"}
-{"Whatubuying": "Enna Vaangure"}
-{"Whatugiving": "Enna Kudukure"}
-{"Whatuleaving": "Enna Vitkure"}
-{"Dude": "Macha"}
-{"Friend": "Machi"}
-{"Brolaw": "Mapillai"}
-{"Insult": "Pundai"}
-{"Rudebro": "Otha Paiya"}
-{"Crazyguy": "Loose Paiya"}
-{"Dumbguy": "Kena Paiya"}
-{"Lameguy": "Mokkai Paiya"}
-{"Awesomeguy": "Semma Paiya"}
-{"Massiveguy": "Mass Paiya"}
-{"Fieroceguy": "Theri Paiya"}
-{"Nextlevelguy": "Vera Level Paiya"}
-{"Funguy": "Jolly Paiya"}
-{"Boringguy": "Bore Paiya"}
+{"Rock": "Kalakku"}
+{"Enjoying": "Kalikitu"}
+{"Bigshot": "Periyaalu"}
+{"Watchout": "Usha"}
+{"Shocked": "Shock"}
+{"Surprised": "Surprise"}
+{"Confused": "Konfuse"}
+{"Trust": "Nambikkai"}
+{"Fight": "Sandai"}
 {"Jungle": "Kaadu"}
 {"Fort": "Kottai"}
 {"Sea": "Kadal"}
@@ -314,7 +48,6 @@
 {"Field": "Vayal"}
 {"Lake": "Eri"}
 {"River": "Aaru"}
-{"Pit": "Kuzhi"}
 {"Stone": "Kal"}
 {"Tree": "Maram"}
 {"Flower": "Poo"}
@@ -329,93 +62,42 @@
 {"Garlic": "Poondu"}
 {"Ginger": "Inji"}
 {"Chilli": "Milagai"}
-{"Salt": "Upppu"}
+{"Salt": "Uppu"}
 {"Sugar": "Sakkarai"}
 {"Flour": "Maa"}
 {"Oil": "Ennai"}
 {"Ghee": "Nei"}
 {"Curd": "Thayir"}
-{"Sambhar": "Sambhar"}
-{"Rasam": "Rasam"}
-{"Gravy": "Kuzhambu"}
 {"Idli": "Idli"}
 {"Dosa": "Dosa"}
-{"Pongal": "Pongal"}
-{"Biryani": "Biryani"}
-{"Parotta": "Parotta"}
-{"Chapathi": "Chapathi"}
-{"Vadai": "Vadai"}
-{"Bajji": "Bajji"}
-{"Bonda": "Bonda"}
-{"Pakoda": "Pakoda"}
-{"Halwa": "Halwa"}
-{"Kheer": "Payasam"}
-{"Murukku": "Murukku"}
-{"Mixture": "Mixture"}
 {"Coffee": "Kaapi"}
 {"Tea": "Tea"}
 {"Juice": "Juice"}
-{"Lassi": "Lassi"}
-{"Buttermilk": "Buttermilk"}
-{"Cookedrice": "Soru"}
+{"Rice": "Soru"}
 {"Porridge": "Koozh"}
-{"Puttu": "Puttu"}
-{"Modak": "Kozhukattai"}
-{"Appam": "Appam"}
-{"Uthappam": "Uthappam"}
-{"Adai": "Adai"}
-{"Pesarattu": "Pesarattu"}
-{"Upma": "Upma"}
-{"Poha": "Poha"}
-{"Oats": "Oats"}
-{"Semolina": "Rava"}
-{"Refinedflour": "Maida"}
-{"Flattenedrice": "Aval"}
-{"Puffedrice": "Pori"}
+{"Kheer": "Payasam"}
+{"Mint": "Pudina"}
+{"Coriander": "Kothamalli"}
+{"Turmeric": "Manjal"}
+{"Cumin": "Jeeragam"}
+{"Fennel": "Sombu"}
+{"Clove": "Lavangam"}
+{"Cardamom": "Elakkai"}
+{"Cinnamon": "Patta"}
+{"Brinjal": "Kathirikkai"}
+{"Potato": "Urulaikizhangu"}
+{"Carrot": "Carrot"}
+{"Spinach": "Keerai"}
+{"Greens": "Keerai"}
 {"Peanut": "Kadalai"}
 {"Lentil": "Paruppu"}
 {"Chickpea": "Chana"}
-{"Kidney bean": "Rajma"}
-{"Greenpeas": "Pachai Pattani"}
-{"Fieldbean": "Mochai"}
-{"Cowpea": "Karamani"}
-{"Broadbean": "Avaraikai"}
-{"Brinjal": "Kathirikkai"}
-{"Ashgourd": "Poosanikai"}
-{"Bottlegourd": "Suraikkai"}
-{"Ridgegourd": "Peerkangai"}
-{"Ivygourd": "Kovakkai"}
-{"Drumstick": "Murungaikai"}
-{"Rawbanana": "Vazhaikai"}
-{"Taro": "Seppankilangu"}
-{"Potato": "Urulaikizhangu"}
-{"Carrot": "Carrot"}
-{"Beans": "Beans"}
-{"Peas": "Pattani"}
-{"Cauliflower": "Cauliflower"}
-{"Cabbage": "Cabbage"}
-{"Spinach": "Spinach"}
-{"Greens": "Keerai"}
-{"Mint": "Pudina"}
-{"Coriander": "Kothamalli"}
-{"Curryleaf": "Karuveppilai"}
-{"Cinnamon": "Patta"}
-{"Clove": "Lavangam"}
-{"Cardamom": "Elakkai"}
-{"Fennel": "Sombu"}
-{"Cumin": "Jeeragam"}
-{"Turmeric": "Manjal"}
-{"Horsegram": "Kollu"}
-{"Banana": "Valaipazham"}
-{"Nannari": "Sarasaparilla"}
-{"Buttermilk": "Neer Mor"}
 {"Say": "Sol"}
 {"Ask": "Ke"}
 {"See": "Paar"}
 {"Give": "Kodu"}
 {"Take": "Vaangu"}
 {"Leave": "Vidu"}
-{"Put": "Podu"}
 {"Write": "Ezhuthu"}
 {"Read": "Padi"}
 {"Sing": "Paadu"}
@@ -424,27 +106,11 @@
 {"Walk": "Nada"}
 {"Sleep": "Thoonga"}
 {"Eat": "Saapidu"}
-{"Drink": "Kudii"}
-{"Getup": "Ezhu"}
-{"Come": "Vaa"}
-{"Go": "Po"}
-{"Stay": "Iru"}
-{"Stop": "Nillu"}
-{"Start": "Thodangu"}
-{"Finish": "Mudii"}
-{"Change": "Maari"}
-{"Reform": "Thirundu"}
-{"Forget": "Mara"}
-{"Remember": "Nyabagirukey"}
+{"Drink": "Kudi"}
 {"Search": "Thedi"}
 {"Pick": "Edu"}
-{"Keep": "Vekku"}
-{"Liftkeep": "Thooki Vekku"}
 {"Attack": "Thaakku"}
 {"Agree": "Ottu"}
-{"Disagree": "Maaru"}
-{"Trust": "Nambhu"}
-{"Fight": "Sandadhu"}
 {"Laughed": "Sirichu"}
 {"Cried": "Azhudha"}
 {"Sang": "Paadha"}
@@ -455,49 +121,233 @@
 {"Ate": "Saaptitaa"}
 {"Drank": "Kuditaa"}
 {"Wrote": "Ezhudhitta"}
-{"Read": "Padichittaa"}
 {"Searched": "Thedittaa"}
-{"Picked": "Eduthitta"}
-{"Kept": "Vechitta"}
-{"Attacked": "Thakitta"}
 {"Agreed": "Ottittaa"}
-{"Changed": "Maarittaa"}
-{"Trusted": "Nambittaa"}
-{"Fought": "Sandaditaa"}
-{"Different": "Vera Maari"}
-{"Longtime": "Romba Naal"}
-{"Shorttime": "Konjam Naal"}
-{"Rightnow": "Ippove"}
-{"Backthen": "Apppove"}
+{"Different": "Veramaari"}
 {"Later": "Apram"}
 {"Before": "Munadi"}
 {"After": "Pinadi"}
-{"Timesup": "Neram Achu"}
-{"Lateagain": "Neram Aachu"}
-{"Total mess": "Kaadu Maadu"}
-{"Oldjoke": "Kaka Muttai"}
-{"Gotbusted": "Panniyedutha"}
-{"Allgone": "Pochu Pochu"}
-{"Tellmebro": "Machi Sollu"}
-{"Heylisten": "Dei Kelu"}
-{"Dearwow": "Aatha Paaru"}
-{"Coolscene": "Semma Scene"}
-{"Howdad": "Eppaadi Appa"}
-{"Heyyo": "Yov"}
-{"Bro": "Daa"}
-{"Girl": "Di"}
-{"Comebro": "Macha Vaa"}
-{"Gobro": "Macha Po"}
-{"Lookbro": "Macha Paar"}
-{"Listenbro": "Macha Kelu"}
-{"Tellbro": "Macha Sollu"}
-{"Dobro": "Macha Pannu"}
-{"Waitbro": "Macha Iru"}
-{"Letitgobro": "Macha Vidu"}
-{"Dontgocrazy": "Loose Aagatha"}
-{"Dontbedumb": "Kena Aagatha"}
-{"Stopbeinglame": "Mokkai Poda"}
-{"Totalfun": "Semma Kelam"}
-{"Looksmass": "Mass Iruka"}
-{"Looksfierce": "Theri Iruka"}
-{"Nextlevelstuff": "Vera Level Iruka"}
+{"Mess": "Kaosam"}
+{"Enough": "Pothum"}
+{"Need": "Venum"}
+{"Stop": "Nillu"}
+{"Start": "Thodangu"}
+{"Finish": "Mudi"}
+{"Forget": "Mara"}
+{"Remember": "Nyabagi"}
+{"Trust": "Nambhu"}
+{"Wait": "Iru"}
+{"Come": "Vaa"}
+{"Go": "Po"}
+{"Stay": "Iru"}
+{"Scared": "Bayam"}
+{"Brave": "Thairiyam"}
+{"Happy": "Santhosham"}
+{"Sad": "Dukkam"}
+{"Angry": "Kovam"}
+{"Love": "Kaadhal"}
+{"Hate": "Veruppu"}
+{"Friend": "Nanbhan"}
+{"Enemy": "Satru"}
+{"Family": "Kudumbam"}
+{"Home": "Veedu"}
+{"School": "Padasaalai"}
+{"Shop": "Kadai"}
+{"City": "Nagar"}
+{"Village": "Ooru"}
+{"Money": "Panam"}
+{"Time": "Neram"}
+{"Day": "Naal"}
+{"Night": "Iravu"}
+{"Morning": "Kaalai"}
+{"Evening": "Maalai"}
+{"Week": "Vaaram"}
+{"Month": "Maasam"}
+{"Year": "Varusham"}
+{"Today": "Indru"}
+{"Tomorrow": "Naalai"}
+{"Yesterday": "Nettru"}
+{"Now": "Ippo"}
+{"Then": "Appo"}
+{"Here": "Inga"}
+{"There": "Anga"}
+{"Yes": "Aamaa"}
+{"No": "Illai"}
+{"Okay": "Seri"}
+{"Good": "Nalla"}
+{"Bad": "Ketta"}
+{"Big": "Periya"}
+{"Small": "Sinna"}
+{"Hot": "Soodum"}
+{"Cold": "Kulir"}
+{"Fast": "Vegama"}
+{"Slow": "Mella"}
+{"Loud": "Soram"}
+{"Quiet": "Aravam"}
+{"Clean": "Sutham"}
+{"Dirty": "Azhukkaa"}
+{"New": "Pudhu"}
+{"Old": "Pazhaiya"}
+{"Heavy": "Bharamaa"}
+{"Light": "Eliya"}
+{"Hard": "Kadina"}
+{"Soft": "Miriduvaana"}
+{"Tall": "Nettamaana"}
+{"Short": "Kuttamaana"}
+{"Fat": "Kozhuppu"}
+{"Thin": "Mariyaadha"}
+{"Smart": "Medhaavi"}
+{"Dumb": "Manda"}
+{"Rich": "Selvaanthar"}
+{"Poor": "Eazhai"}
+{"Strong": "Valimaiyaana"}
+{"Weak": "Thaymaiyaana"}
+{"Busy": "Busy"}
+{"Free": "Free"}
+{"Tired": "Kalichitten"}
+{"Hungry": "Pasikuthu"}
+{"Thirsty": "Thaagam"}
+{"Sick": "Udalnotham"}
+{"Healthy": "Udalvalarchi"}
+{"Safe": "Padhukaapu"}
+{"Danger": "Aapathu"}
+{"Win": "Vetri"}
+{"Lose": "Thottupoi"}
+{"Try": "Muyarchi"}
+{"Fail": "Tholvii"}
+{"Learn": "Kattrukon"}
+{"Teach": "Kattrukodunga"}
+{"Help": "Udavi"}
+{"Problem": "Paravai"}
+{"Answer": "Padhil"}
+{"Question": "Kelvi"}
+{"Idea": "Yoosanai"}
+{"Plan": "Thittam"}
+{"Work": "Velai"}
+{"Rest": "Oivu"}
+{"Play": "Vilayaattu"}
+{"Study": "Paadam"}
+{"Party": "Virundhu"}
+{"Trip": "Payan"}
+{"Gift": "Parisam"}
+{"Price": "Vilai"}
+{"Deal": "Oppaandham"}
+{"Cheap": "Malaivaa"}
+{"Expensive": "Vilaiuriya"}
+{"Buy": "Vaangu"}
+{"Sell": "Vii"}
+{"Share": "Pangi"}
+{"Save": "Semathu"}
+{"Spend": "Sariyaakku"}
+{"Waste": "Veenapom"}
+{"Profit": "Laabam"}
+{"Loss": "Nattam"}
+{"Business": "Thozhil"}
+{"Job": "Velai"}
+{"Salary": "Sambalam"}
+{"Boss": "Thalaivan"}
+{"Team": "Kuzhu"}
+{"Leader": "Thalaivar"}
+{"Winner": "Vettriyaalar"}
+{"Loser": "Thotraavar"}
+{"Champion": "Seampian"}
+{"Match": "Poattu"}
+{"Score": "Nikkal"}
+{"Goal": "Nikkal"}
+{"Point": "Pulli"}
+{"Rank": "Nilai"}
+{"Star": "Nakshathiram"}
+{"Hero": "Naayagan"}
+{"Villain": "Theeyan"}
+{"Comedy": "Nagaichchuvai"}
+{"Story": "Kathai"}
+{"News": "Samaacharam"}
+{"Gossip": "Urai"}
+{"Rumour": "Porpesuvaar"}
+{"Lie": "Poi"}
+{"Truth": "Unmai"}
+{"Secret": "Ragasiyam"}
+{"Promise": "Vaakku"}
+{"Surprise": "Atcharyam"}
+{"Mistake": "Thappuu"}
+{"Sorry": "Mannipu"}
+{"Thanks": "Nandri"}
+{"Welcome": "Varaverpu"}
+{"Hello": "Vanakkam"}
+{"Bye": "Poituvaren"}
+{"Please": "Thayavu"}
+{"Hurry": "Vegam"}
+{"Careful": "Kavanam"}
+{"Attention": "Kavanam"}
+{"Focus": "Kavanam"}
+{"Relax": "Ootrum"}
+{"Chill": "Shanthi"}
+{"Vibe": "Unarvu"}
+{"Mood": "Maanasam"}
+{"Energy": "Shakti"}
+{"Attitude": "Poi"}
+{"Style": "Andham"}
+{"Fashion": "Nadai"}
+{"Trend": "Pakkuvam"}
+{"Popular": "Pugazhpetra"}
+{"Famous": "Periyavar"}
+{"Respect": "Marippu"}
+{"Honor": "Maanam"}
+{"Pride": "Ganavum"}
+{"Shame": "Verppu"}
+{"Jealous": "Poaami"}
+{"Greedy": "Aasai"}
+{"Lazy": "Somberi"}
+{"Hardworking": "Uzhaipaali"}
+{"Honest": "Nerthiyaana"}
+{"Cheater": "Yemaatrukaar"}
+{"Winner": "Vettriyaalar"}
+{"Loser": "Tholviraar"}
+{"Survivor": "Vaazhndhavar"}
+{"how": "Eppadi"}
+{"Sure": "Kandippa"}
+{"Maybe": "Irukkalam"}
+{"Fine": "Nalla"}
+{"Sleepy": "Thookam"}
+{"Late": "Kazhichitten"}
+{"Lost": "Thandalichitten"}
+{"Coming": "Varene"}
+{"Going": "Pooren"}
+{"Waiting": "Kaathiruken"}
+{"Reached": "Serndhiten"}
+{"Outside": "Velila"}
+{"Inside": "Ullela"}
+{"Office": "Office"}
+{"Nearby": "Pakkathula"}
+{"Far": "Dooram"}
+{"Wake": "Ezhundiru"}
+{"Know": "Theriyum"}
+{"Understand": "Purinjutten"}
+{"Confirm": "Confirm"}
+{"Congrats": "Vaazhthukal"}
+{"Goodluck": "Vaazhthukal"}
+{"Believe": "Nambhu"}
+{"Excited": "Uthsaham"}
+{"Bored": "Bore"}
+{"Worried": "Kavalai"}
+{"Relaxed": "Ootrum"}
+{"Rain": "Mazhai"}
+{"Always": "Eppodhum"}
+{"Never": "Ondrume"}
+{"Again": "Innoru"}
+{"More": "Adhigam"}
+{"Less": "Kuradha"}
+{"Everything": "Ellam"}
+{"Nothing": "Onnume"}
+{"Anywhere": "Enga"}
+{"Somewhere": "Oredham"}
+{"Anyone": "Yaravadhu"}
+{"Nobody": "Yarum"}
+{"Together": "Serndhee"}
+{"Alone": "Thaanaa"}
+{"Same": "Athuvee"}
+{"Right": "Seri"}
+{"Wrong": "Thappu"}
+{"Easy": "Edhuvumilla"}
+{"Possible": "Mudiyum"}
+{"Impossible": "Mudiyaathu"}
