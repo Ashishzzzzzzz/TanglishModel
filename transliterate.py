@@ -25,6 +25,6 @@ def transliterate(word):
         if w in word_data:
             transliterated_words.append(word_data[w])
         else:
-            transliterated_words.append(w)
+            pass
 
     return ' '.join(transliterated_words)
