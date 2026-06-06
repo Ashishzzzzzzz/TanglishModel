@@ -8,20 +8,25 @@ Docstring for transliterate.py
 
 
 
+
 import json
 
-def transliterate(text_list):
+def transliterate(word):
 
-# load the words.jsonl file
-    with open('words.jsonl', 'r') as f:
-        mapping = json.load(f)
+    # open the Words.jsonl file 
+    with open(r"Words.jsonl" , 'r') as file:
+        word_data  = {}
+        for line in file:
+            data  = json.loads(line)
+            word_data.update(data)
 
-    # transliterate each word in the list
     transliterated_words = []
-    for word in text_list:
-        if word in mapping:
-            transliterated_words.append(mapping[word])
+    for w in word:
+        if w in word_data:
+            transliterated_words.append(word_data[w])
         else:
-            transliterated_words.append(word)
+            transliterated_words.append(w)
 
-    return transliterated_words
+    return ' '.join(transliterated_words)
+
+
