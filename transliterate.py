@@ -28,5 +28,3 @@ def transliterate(word):
             transliterated_words.append(w)
 
     return ' '.join(transliterated_words)
-
-
